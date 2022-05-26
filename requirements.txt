@@ -30,7 +30,7 @@ sanic-jinja2==0.7.5
 sanic-session==0.6.0
 six==1.14.0
 sniffio==1.1.0
-ujson==1.35
+ujson==5.2.0
 uvloop==0.14.0
 wcwidth==0.1.8
 websockets==8.1
